@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\tableau 1bis\tableau 1bis\bin\Debug\tableau 1bis.exe.config
+C:\Users\Dell\source\repos\tableau 1bis\tableau 1bis\bin\Debug\tableau 1bis.exe
+C:\Users\Dell\source\repos\tableau 1bis\tableau 1bis\bin\Debug\tableau 1bis.pdb
+C:\Users\Dell\source\repos\tableau 1bis\tableau 1bis\obj\Debug\tableau 1bis.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\tableau 1bis\tableau 1bis\obj\Debug\tableau 1bis.exe
+C:\Users\Dell\source\repos\tableau 1bis\tableau 1bis\obj\Debug\tableau 1bis.pdb
